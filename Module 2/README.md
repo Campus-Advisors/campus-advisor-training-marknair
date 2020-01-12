@@ -1,3 +1,5 @@
+Mark Nair
+
 # Welcome to Module 2: GitHub Basics
 
 In this module you will be introduced to GitHub. This module will cover:
